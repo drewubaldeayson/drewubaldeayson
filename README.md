@@ -2,6 +2,8 @@
 
 A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Researcher, Tech Community Leader, and Web3 Enthusiast
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE28FF&random=false&width=435&lines=Senior+Software+Engineer)](https://git.io/typing-svg)
+
 
 - 💝 Author of multiple open source projects (30+ to date).
 - 💼 CEO @ QuantaShift
