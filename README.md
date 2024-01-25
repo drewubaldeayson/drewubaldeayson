@@ -25,8 +25,7 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 - 🤝 Manager/Senior Software Engineer @ Globe Fintech Innovations (GCash)
 - 🤝 Manager/Senior Software Engineer @ DyipPay Revolution Corporation
 - 🔏 Bug bounty hunter in free time
-- ☕  Coding as my main hobby
-- 💡 Learn more about me.
+- 💻 Coding is my hobby
 
 
 ## 🏆 Github Trophies
