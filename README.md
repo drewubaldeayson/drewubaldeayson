@@ -3,15 +3,14 @@
 A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Researcher, Tech Community Leader, and Web3 Enthusiast
 
 
-💝 Author of multiple open source projects (~50 to date).
-💼 Community Manager @ thirdweb
-😎 Co-Founder @ 
-🌱 Building @ 
-🤝 Co-Founder @ 
-💜 Core @ 
-🔏 Bug bounty hunter in free time
-☕  Coding as my main hobby
-💡 Learn more about me.
+-💝 Author of multiple open source projects (30+ to date).
+-💼 CEO @ QuantaShift
+-🌱 Building Startup @ CyberPersonaForge
+-🤝 Manager/Senior Software Engineer @ Globe Fintech Innovations (GCash)
+-🤝 Manager/Senior Software Engineer @ DyipPay Revolution Corporation
+-🔏 Bug bounty hunter in free time
+-☕  Coding as my main hobby
+-💡 Learn more about me.
 
 
 
