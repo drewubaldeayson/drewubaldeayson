@@ -41,7 +41,7 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 <a href='https://open.spotify.com/playlist/1mRnp6sx8ysTLaKD4OjBmw' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/KPop_Music-100000?style=flat-square&logo=spotify&logoColor=white&labelColor=1BB954&color=1BB954'/></a>
 <a href='https://open.spotify.com/playlist/1YvrTMoQkao1I0J4Nf7XJF' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/Acoustic_Covers-100000?style=flat-square&logo=spotify&logoColor=white&labelColor=1BB954&color=1BB954'/></a>
 <br/><br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&redirect=true)
 
 
 💻💖☕ by Andrew Ayson
