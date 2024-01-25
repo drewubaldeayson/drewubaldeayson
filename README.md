@@ -1,18 +1,17 @@
 # Hi, I am Andrew Ayson (💖💻)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=AE28FF&random=false&width=435&lines=Senior+Software+Engineer;Innovator;Technopreneur;It+is+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
-
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://dev.to/drewubaldeayson">
+    <img src="https://img.shields.io/badge/devto?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=AE28FF&random=false&width=435&lines=Senior+Software+Engineer;Innovator;Technopreneur;It+is+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
 
 A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Researcher, Tech Community Leader, and Web3 Enthusiast
 
