@@ -15,9 +15,6 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 - 💡 Learn more about me.
 
 
-## Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
