@@ -1,4 +1,4 @@
-# Hi, I'm Andrew Ayson (💻💖☕)
+# Hi, I am Andrew Ayson (💖💻)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=AE28FF&random=false&width=435&lines=Senior+Software+Engineer;Innovator;Technopreneur;It+is+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
 
