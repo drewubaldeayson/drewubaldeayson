@@ -44,4 +44,4 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53B14F&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&redirect=true)
 
 
-💻💖☕ by Andrew Ayson
+Made with 💖 by Andrew Ayson
