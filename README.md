@@ -10,7 +10,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>\
+</div>
+
+<br/>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=AE28FF&random=false&width=435&lines=Senior+Software+Engineer;Innovator;Technopreneur;It+is+a+pleasure+to+meet+you!)](https://git.io/typing-svg)
