@@ -14,9 +14,6 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 - 💡 Learn more about me.
 
 
-![Andrew Ayson's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
-
-
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -24,6 +21,11 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,arduino,aws,babel,bash,bootstrap,cpp,cloudflare,codepen,css,d3,dart,discord,bots,django,docker,dynamodb,eclipse,elasticsearch,electron,figma,firebase,flutter,gatsby,gcp,git,github,githubactions,gitlab,gradle,graphql,gulp,heroku,html,idea,ipfs,java,js,jquery,kafka,kotlin,kubernetes,laravel,linux,md,materialui,maven,mongodb,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,opencv,php,postgres,postman,powershell,pug,py,react,redis,redux,regex,robloxstudio,sqlite,sass,sequelize,solidity,swift,tailwind,tensorflow,terraform,threejs,ts,unity,vercel,vim,vite,vscode,vue,wasm,webpack,wordpress&perline=15)](https://skillicons.dev)
 
+
+🌞 Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+🌆 Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
+🌃 Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+🌙 Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 
 
 💻💖☕ by Andrew Ayson
