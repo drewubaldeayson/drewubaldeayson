@@ -5,8 +5,8 @@
 A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Researcher, Tech Community Leader, and Web3 Enthusiast
 
 - 💝 Author of multiple open source projects (30+ to date).
-- 💼 CEO @ QuantaShift
-- 🌱 Building Startup @ CyberPersonaForge
+- 💼 CEO @ QuantaShift Software Solutions
+- 🌱 Building Startup @ CyberPersonaForge with BYWU venture studio
 - 🤝 Manager/Senior Software Engineer @ Globe Fintech Innovations (GCash)
 - 🤝 Manager/Senior Software Engineer @ DyipPay Revolution Corporation
 - 🔏 Bug bounty hunter in free time
