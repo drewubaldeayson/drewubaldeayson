@@ -14,6 +14,9 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 - 💡 Learn more about me.
 
 
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun)
+
+
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
