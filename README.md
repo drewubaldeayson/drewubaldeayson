@@ -12,6 +12,8 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 - ☕  Coding as my main hobby
 - 💡 Learn more about me.
 
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Skills & Technologies
