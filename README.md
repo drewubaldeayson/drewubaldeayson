@@ -37,7 +37,7 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 
 
 ## 🎧 Spotify Playing
-![Pop Music](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/PPop_Music-100000?style=flat-square&logo=spotify&logoColor=white&labelColor=1BB954&color=1BB954'/></a>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=316lszyms2sjhwpmygbycj635ywu&redirect=true)
 
 
