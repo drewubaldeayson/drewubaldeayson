@@ -1,18 +1,16 @@
 ## Hi, I'm Andrew Ayson (💻💖☕)
 
-Filipino senior software engineer, opensource developer and advocate, cybersecurity researcher, tech community leader, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
+A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Researcher, Tech Community Leader, and Web3 Enthusiast
 
-🎙 Recent Tech Talks • 📦 Open Source Updates
 
 💝 Author of multiple open source projects (~50 to date).
 💼 Community Manager @ thirdweb
-😎 Co-Founder @ Web3 Philippines
-🌱 Building @ WG Technology Labs
-🤝 Co-Founder @ OSS Philippines
-💜 Core @ Polygon Guild Manila
-🔏 Bug bounty hunter in free time.
-☕ Coffee lover, turning it into code, you can buy me a coffee or send me some love.
-🎯 Wasting my time to save other people's time.
+😎 Co-Founder @ 
+🌱 Building @ 
+🤝 Co-Founder @ 
+💜 Core @ 
+🔏 Bug bounty hunter in free time
+☕  Coding as my main hobby
 💡 Learn more about me.
 
 
