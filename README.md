@@ -39,6 +39,9 @@ A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Res
 ## Github Stats
 [![Andrew Ayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewubaldeayson)](https://github.com/anuraghazra/github-readme-stats)
 
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🎧 Spotify Playing
 <a href='https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/PPop_Music-100000?style=flat-square&logo=spotify&logoColor=white&labelColor=1BB954&color=1BB954'/></a>
