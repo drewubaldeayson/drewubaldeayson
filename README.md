@@ -1,10 +1,10 @@
 # Hi, I am Andrew Ayson (💖💻)
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/andrew-ubalde-ayson/)">
+  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-dev.to-URL](https://dev.to/drewubaldeayson)">
+  <a href="https://dev.to/drewubaldeayson">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
   <a href="https://www.hackerearth.com/@drewubaldeayson">
