@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="https&#58;//www.linkedin.com/in/andrew-ubalde-ayson/" target="_blank" style="text-decoration:none">
-    <img src="https&#58;//img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="text-decoration:none"/></a>&nbsp;<a href="https&#58;//dev.to/drewubaldeayson" target="_blank" style="text-decoration:none">
+    <img src="https&#58;//img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="text-decoration:none"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https&#58;//dev.to/drewubaldeayson" target="_blank" style="text-decoration:none">
     <img src="https&#58;//img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/> &nbsp;
   </a><a href="https&#58;//www.hackerearth.com/@drewubaldeayson" target="_blank" style="text-decoration:none">
     <img src="https&#58;//img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth Badge"/> &nbsp;
