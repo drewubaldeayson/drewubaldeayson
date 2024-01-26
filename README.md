@@ -1,7 +1,7 @@
 # Hi, I am Andrew Ayson (💖💻)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/" target="_blank" style="text-decoration:none">
+  <a href="http&#58;//www.linkedin.com/in/andrew-ubalde-ayson/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dev.to/drewubaldeayson" target="_blank" style="text-decoration:none">
