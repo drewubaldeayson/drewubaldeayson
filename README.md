@@ -1,10 +1,9 @@
 # Hi, I am Andrew Ayson (💖💻)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/" style="margin-right:10px">
+  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
   <a href="https://dev.to/drewubaldeayson">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
@@ -14,7 +13,6 @@
   <a href="https://www.buymeacoffee.com/drewubaldeayson">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee Badge"/>
   </a>
-
 </div>
 
 <br/>
