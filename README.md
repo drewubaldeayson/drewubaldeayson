@@ -1,16 +1,16 @@
 # Hi, I am Andrew Ayson (💖💻)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/andrew-ubalde-ayson/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://dev.to/drewubaldeayson">
+  <a href="https://dev.to/drewubaldeayson" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="https://www.hackerearth.com/@drewubaldeayson">
+  <a href="https://www.hackerearth.com/@drewubaldeayson" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth Badge"/>
   </a>
-  <a href="https://www.buymeacoffee.com/drewubaldeayson">
+  <a href="https://www.buymeacoffee.com/drewubaldeayson" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee Badge"/>
   </a>
 </div>
