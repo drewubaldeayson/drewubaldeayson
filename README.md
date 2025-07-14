@@ -11,10 +11,11 @@
 A Filipino Senior Software Engineer, Innovator, Technopreneur, Cybersecurity Researcher, Tech Community Leader, and Web3 Enthusiast
 
 - 💝 Author of multiple open source projects (30+ to date).
-- 💼 CEO @ QuantaShift Software Solutions
-- 💼 CTO @ YourSkills.pro
-- 🤝 Manager/Senior Software Engineer @ Globe Fintech Innovations (GCash)
-- 🤝 Manager/Senior Software Engineer @ DyipPay Revolution Corporation
+- 🤝 Full Stack Engineer @ The Global A.I. Internet Freedom Fund
+- 💼 CEO @ QuantaShift Software Solutions (in hiatus)
+- 💼 Former CTO @ YourSkills.pro
+- 🤝 Former Manager/Senior Software Engineer @ Globe Fintech Innovations (GCash)
+- 🤝 Former Manager/Senior Software Engineer @ DyipPay Revolution Corporation
 - 🔏 Helping businesses through developing SaaS platform in free time
 - 💻 Coding is my hobby
 
